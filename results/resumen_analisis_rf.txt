@@ -1,0 +1,27 @@
+======================================================================
+RESUMEN DE ESTADÍSTICAS RF - LoRaWAN
+======================================================================
+
+Total de paquetes: 16
+
+RSSI:
+  - Promedio: -12.2 dBm
+  - Rango: -18 a -9 dBm
+  - Desviación estándar: 2.72 dB
+
+SNR:
+  - Promedio: 13.5 dB
+  - Rango: 11.0 a 14.5 dB
+  - Desviación estándar: 1.01 dB
+
+Canales utilizados: 7
+  - 903.9 MHz: 2 paquetes (12.5%)
+  - 904.1 MHz: 2 paquetes (12.5%)
+  - 904.3 MHz: 2 paquetes (12.5%)
+  - 904.5 MHz: 4 paquetes (25.0%)
+  - 904.7 MHz: 2 paquetes (12.5%)
+  - 904.9 MHz: 2 paquetes (12.5%)
+  - 905.3 MHz: 2 paquetes (12.5%)
+
+Spreading Factors:
+  - SF7: 16 paquetes (100.0%)
